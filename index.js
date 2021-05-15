@@ -15,8 +15,7 @@ let rollCall = [];
 
 const titleCased = () => {
   return tutorials
-  for (const tutorials of tutorials) {
-  rollCall.push( rollCall + " the wizard" );
+let rollCall = students.map(studentRollCall);
 }
 }
 
