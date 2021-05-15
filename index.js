@@ -11,6 +11,14 @@ const tutorials = [
   'what is JSONP?'
 ];
 
+let rollCall = [];
+
 const titleCased = () => {
   return tutorials
+  for (const tutorials of tutorials) {
+  rollCall.push( rollCall + " the wizard" );
 }
+}
+
+
+ 
